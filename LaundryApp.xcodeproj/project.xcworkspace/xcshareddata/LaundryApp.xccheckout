@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>157B5A67-2C41-4A6A-AEC4-451E7ABC65D7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LaundryApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1074C994F2559CE602114B4B6A06DBA83E0B1F65</key>
+		<string>https://github.com/carbons-labs/laundry.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LaundryApp/LaundryApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1074C994F2559CE602114B4B6A06DBA83E0B1F65</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/carbons-labs/laundry.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1074C994F2559CE602114B4B6A06DBA83E0B1F65</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1074C994F2559CE602114B4B6A06DBA83E0B1F65</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Laundry</string>
+		</dict>
+	</array>
+</dict>
+</plist>

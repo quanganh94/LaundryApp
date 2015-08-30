@@ -1,0 +1,207 @@
+
+/* Class = "UIButton"; normalTitle = "bell"; ObjectID = "0Tx-ew-SVm"; */
+"0Tx-ew-SVm.normalTitle" = "bell";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "0gG-Zm-zY4"; */
+"0gG-Zm-zY4.text" = "Tổng cộng";
+
+/* Class = "UIViewController"; title = "SideBarMenu"; ObjectID = "1F4-q5-pyo"; */
+"1F4-q5-pyo.title" = "SideBarMenu";
+
+/* Class = "UITextField"; placeholder = "Date of Birth"; ObjectID = "1ZF-MH-lmd"; */
+"1ZF-MH-lmd.placeholder" = "Date of Birth";
+
+/* Class = "UINavigationItem"; title = "Your Basket"; ObjectID = "1cP-8U-e5B"; */
+"1cP-8U-e5B.title" = "Giỏ Hàng";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "3ji-dk-JDU"; */
+"3ji-dk-JDU.normalTitle" = "Đăng nhập";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "3jm-RI-lF6"; */
+"3jm-RI-lF6.text" = "1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4JB-lu-CLK"; */
+"4JB-lu-CLK.text" = "Label";
+
+/* Class = "UILabel"; text = "CHECKOUT"; ObjectID = "4LG-nQ-Hbt"; */
+"4LG-nQ-Hbt.text" = "THANH TOÁN";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4aO-cF-f3M"; */
+"4aO-cF-f3M.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5uH-jf-lhZ"; */
+"5uH-jf-lhZ.text" = "Label";
+
+/* Class = "UILabel"; text = "YOUR DETAILS"; ObjectID = "6nJ-A1-HKH"; */
+"6nJ-A1-HKH.text" = "YOUR DETAILS";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "7MS-wC-BTF"; */
+"7MS-wC-BTF.normalTitle" = "X";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "7YB-B2-dBH"; */
+"7YB-B2-dBH.placeholder" = "Số điện thoại";
+
+/* Class = "UILabel"; text = "LANGUAGE"; ObjectID = "9uZ-OL-cuC"; */
+"9uZ-OL-cuC.text" = "NGÔN NGỮ";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "AJC-HW-jhz"; */
+"AJC-HW-jhz.placeholder" = "Tên";
+
+/* Class = "UILabel"; text = "130k"; ObjectID = "Abd-pO-hxA"; */
+"Abd-pO-hxA.text" = "130k";
+
+/* Class = "UIViewController"; title = "Reveal View Controller"; ObjectID = "Acg-u5-YQe"; */
+"Acg-u5-YQe.title" = "Reveal View Controller";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "BCl-HW-b2I"; */
+"BCl-HW-b2I.placeholder" = "Địa chỉ";
+
+/* Class = "UIViewController"; title = "FirstView"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "FirstView";
+
+/* Class = "UIButton"; normalTitle = "PLACE ORDER"; ObjectID = "CcF-cX-USj"; */
+"CcF-cX-USj.normalTitle" = "ĐẶT HÀNG";
+
+/* Class = "UILabel"; text = "CONFIRM YOUR ACCOUNT"; ObjectID = "Dix-Dk-dO5"; */
+"Dix-Dk-dO5.text" = "XÁC NHẬN TÀI KHOẢN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "E6t-DE-hwe"; */
+"E6t-DE-hwe.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Your Order"; ObjectID = "EhS-Xa-zuW"; */
+"EhS-Xa-zuW.normalTitle" = "Đơn hàng của bạn";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Gcm-e7-w9b"; */
+"Gcm-e7-w9b.placeholder" = "Mật khẩu";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "H9f-Rg-axk"; */
+"H9f-Rg-axk.placeholder" = "Họ và Tên";
+
+/* Class = "UILabel"; text = "ADDRESS"; ObjectID = "IJD-Dn-GuA"; */
+"IJD-Dn-GuA.text" = "ĐỊA CHỈ";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "IbA-eO-x3V"; */
+"IbA-eO-x3V.placeholder" = "Họ";
+
+/* Class = "UITextField"; placeholder = "Date of Birth"; ObjectID = "L3U-my-lBM"; */
+"L3U-my-lBM.placeholder" = "Ngày Sinh";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "M0c-am-7KI"; */
+"M0c-am-7KI.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "N97-V3-E6I"; */
+"N97-V3-E6I.normalTitle" = "Đăng Xuất";
+
+/* Class = "UILabel"; text = "SHIPPING INFO"; ObjectID = "RIO-jV-YPJ"; */
+"RIO-jV-YPJ.text" = "ĐỊA CHỈ";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "RP9-6u-a50"; */
+"RP9-6u-a50.placeholder" = "Mật khẩu";
+
+/* Class = "UIButton"; normalTitle = "UPDATE ACCOUNT"; ObjectID = "VZy-mb-8Zl"; */
+"VZy-mb-8Zl.normalTitle" = "CẬP NHẬT TÀI KHOẢN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Vhz-W4-a2z"; */
+"Vhz-W4-a2z.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "ACCOUNT"; ObjectID = "XPr-DC-HKK"; */
+"XPr-DC-HKK.text" = "TÀI KHOẢN";
+
+/* Class = "UILabel"; text = "OUR DETAILS"; ObjectID = "YWb-a7-Q7R"; */
+"YWb-a7-Q7R.text" = "THÔNG TIN";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "YtA-xz-YVO"; */
+"YtA-xz-YVO.placeholder" = "Mật khẩu";
+
+/* Class = "UIButton"; normalTitle = "Use Current Location"; ObjectID = "bPo-ic-hjF"; */
+"bPo-ic-hjF.normalTitle" = "Sử dụng vị trí hiện tại";
+
+/* Class = "UILabel"; text = "PERSONAL"; ObjectID = "bSo-Rc-3wQ"; */
+"bSo-Rc-3wQ.text" = "CÁ NHÂN";
+
+/* Class = "UIButton"; normalTitle = "Use Your Account Location"; ObjectID = "bng-Kf-CKv"; */
+"bng-Kf-CKv.normalTitle" = "Sử dụng địa chỉ của tài khoản";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "c6k-Pa-rpW"; */
+"c6k-Pa-rpW.normalTitle" = "Đăng ký";
+
+/* Class = "UILabel"; text = "CONTACT"; ObjectID = "cBc-d0-7Kr"; */
+"cBc-d0-7Kr.text" = "LIÊN HỆ";
+
+/* Class = "UITextField"; placeholder = "Line 1"; ObjectID = "dbu-0g-2jX"; */
+"dbu-0g-2jX.placeholder" = "Địa chỉ";
+
+/* Class = "UILabel"; text = "DELIVERY"; ObjectID = "ddI-Iv-clr"; */
+"ddI-Iv-clr.text" = "GIAO HÀNG";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "eaR-eD-bIN"; */
+"eaR-eD-bIN.placeholder" = "Số điện thoại";
+
+/* Class = "UITextField"; placeholder = "Line 1"; ObjectID = "ebC-Wa-mpY"; */
+"ebC-Wa-mpY.placeholder" = "Địa chỉ";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "hNG-Bb-VTQ"; */
+"hNG-Bb-VTQ.placeholder" = "Số điện thoại";
+
+/* Class = "UILabel"; text = "COLLECTION"; ObjectID = "hek-hA-WkF"; */
+"hek-hA-WkF.text" = "NHẬN HÀNG";
+
+/* Class = "UILabel"; text = "COUPON"; ObjectID = "iSs-6F-2cK"; */
+"iSs-6F-2cK.text" = "GIẢM GIÁ";
+
+/* Class = "UIViewController"; title = "Account Detail"; ObjectID = "jVZ-p4-yeY"; */
+"jVZ-p4-yeY.title" = "Thông tin Tài khoản";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jjr-xa-RxJ"; */
+"jjr-xa-RxJ.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "kHI-7W-DzE"; */
+"kHI-7W-DzE.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "lIx-2l-g3b"; */
+"lIx-2l-g3b.placeholder" = "Số điện thoại";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "m2g-9m-i4U"; */
+"m2g-9m-i4U.title" = "Cài đặt";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "maA-WF-fbc"; */
+"maA-WF-fbc.normalTitle" = "Đóng";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n7S-io-Ejg"; */
+"n7S-io-Ejg.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "oEr-cN-rre"; */
+"oEr-cN-rre.placeholder" = "Tên";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "p1X-C4-30O"; */
+"p1X-C4-30O.normalTitle" = "ĐĂNG KÝ";
+
+/* Class = "UILabel"; text = "Enter code"; ObjectID = "pqi-hu-Lzl"; */
+"pqi-hu-Lzl.text" = "Nhập mã";
+
+/* Class = "UILabel"; text = "SHIPPING INFO"; ObjectID = "rjC-dV-KxV"; */
+"rjC-dV-KxV.text" = "ĐỊA CHỈ";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "ryj-vq-B9B"; */
+"ryj-vq-B9B.placeholder" = "Họ";
+
+/* Class = "UILabel"; text = "Hello "; ObjectID = "tGf-xw-e1e"; */
+"tGf-xw-e1e.text" = "Chào ";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "u1b-81-dwE"; */
+"u1b-81-dwE.placeholder" = "Mật khẩu";
+
+/* Class = "UIButton"; normalTitle = "Save Changes"; ObjectID = "uvN-Km-Ewy"; */
+"uvN-Km-Ewy.normalTitle" = "Lưu thay đổi";
+
+/* Class = "UILabel"; text = "PERSONAL"; ObjectID = "wrV-iz-wA0"; */
+"wrV-iz-wA0.text" = "CÁ NHÂN";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "wvF-fj-8QB"; */
+"wvF-fj-8QB.placeholder" = "Số điện thoại";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE →"; ObjectID = "zMf-Rw-Xm9"; */
+"zMf-Rw-Xm9.normalTitle" = "TIẾP TỤC →";
+
+/* Class = "UIButton"; normalTitle = "View Your Account"; ObjectID = "zzF-Pd-BjS"; */
+"zzF-Pd-BjS.normalTitle" = "Xem thông tin tài khoản";
